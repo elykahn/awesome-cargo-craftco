@@ -1,7 +1,7 @@
-Cargo Craftmen 
+# Cargo Craftmen 
 
-Brands
-- Made/Located in San Francisco
+### Brands
+##### Made/Located in San Francisco
 - Chrome Industries (chrome Industries.com)
 - Mission Workshop
 - Timbuk2.com
@@ -82,6 +82,4 @@ Xd-design.com
 
 
 
-
-Cheaper Brands/Generic 
 
